@@ -1,4 +1,4 @@
-name: Build Commannd Line Tool
+name: Build Command Line Tool
 
 on: [push]
 
