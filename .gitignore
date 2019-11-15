@@ -328,3 +328,4 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/AzurePipelines.QueueBuild.CmdLine/test-queue.bat
