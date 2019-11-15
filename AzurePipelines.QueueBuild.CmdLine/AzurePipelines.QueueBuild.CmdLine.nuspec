@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>AzurePipelines.QueueBuild.CmdLine</id>
+    <version>0.1.0</version>
+    <title>AzurePipelines Queue Build command line tool</title>
+    <authors>craigp@codehq.co.za</authors>
+    <owners>craigp@codehq.co.za</owners>
+    <licenseUrl>https://github.com/Halceyon/azure-pipelines-queue-build/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Halceyon/azure-pipelines-queue-build</projectUrl>
+    <iconUrl>https://github.com/Halceyon/</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Command line tool to queue a new build on Azure Pipelines</description>
+    <copyright>Copyright 2019</copyright>
+    <tags>Azure,Pipelines</tags>
+  </metadata>
+  <files>
+    <file src="bin\Release\*.*" target="tools" />
+  </files>
+</package>
